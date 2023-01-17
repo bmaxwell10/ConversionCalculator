@@ -1,4 +1,4 @@
-# ConversionCalculator
+# Conversion Calculator Program
 
 This is repository contains a Java program that can perform the following conversions:
 - Fahrenheit-to-Celsius (“F2C”)
